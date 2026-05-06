@@ -33,7 +33,7 @@ Login → Dashboard → Mood Selection → Energy Level → Journal Entry → Go
 ## 🎨 Wireframes
 Low-fidelity wireframes designed using Figma.
 
-👉 Figma Link: (paste your link here)
+👉 Figma Link:https://www.figma.com/design/zPt5VRE9oavlykKeuLufEA/Thiranex-task-1--MOODCIRCLE?node-id=0-1&t=9XJqFq1xRgz6JZzm-1
 
 ---
 
